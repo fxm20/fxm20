@@ -1,0 +1,868 @@
+{
+  "outbounds": [
+    {
+      "tag": "嘻嘻嘻",
+      "type": "vmess",
+      "server": "1",
+      "server_port": 8080,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-上海游戏节点",
+      "type": "vmess",
+      "server": "124.220.57.75",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-浙江BGP",
+      "type": "vmess",
+      "server": "110.42.102.22",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-浙江移动",
+      "type": "vmess",
+      "server": "183.245.146.24",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-安徽联通",
+      "type": "vmess",
+      "server": "103.189.93.24",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-河南移动",
+      "type": "vmess",
+      "server": "111.6.86.215",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-江苏BGP",
+      "type": "vmess",
+      "server": "36.151.192.64",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-宿迁BGP",
+      "type": "vmess",
+      "server": "222.187.227.238",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-浙江移动(443端口)",
+      "type": "vmess",
+      "server": "183.245.146.24",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-浙江BGP(443端口)",
+      "type": "vmess",
+      "server": "110.42.102.22",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-江苏BGP(443端口)",
+      "type": "vmess",
+      "server": "36.151.192.64",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-宿迁BGP(443端口)",
+      "type": "vmess",
+      "server": "222.187.227.238",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-安徽联通(443端口)",
+      "type": "vmess",
+      "server": "103.189.93.24",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-河南移动(443端口)",
+      "type": "vmess",
+      "server": "111.6.86.215",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-安徽 500m",
+      "type": "vmess",
+      "server": "103.189.93.24",
+      "server_port": 8888,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-上海1G",
+      "type": "vmess",
+      "server": "218.78.7.46",
+      "server_port": 8888,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "CN-河南1G",
+      "type": "vmess",
+      "server": "111.6.86.215",
+      "server_port": 8888,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "TW 1G 家宽/Netflix",
+      "type": "vmess",
+      "server": "61.227.227.91",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "TW 1G(443端口) 家宽/Netflix",
+      "type": "vmess",
+      "server": "61.227.227.91",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "HK 5G",
+      "type": "vmess",
+      "server": "43.198.107.190",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "HK 5G(443端口)",
+      "type": "vmess",
+      "server": "43.198.107.190",
+      "server_port": 443,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "SG 5G",
+      "type": "vmess",
+      "server": "54.169.254.95",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "JP 5G",
+      "type": "vmess",
+      "server": "52.195.3.168",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Kr 5G",
+      "type": "vmess",
+      "server": "13.209.13.31",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "GER Frankfurt 5G",
+      "type": "vmess",
+      "server": "130.61.116.33",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广日隧道-春川 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 32460,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广港隧道-香港 A 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 27506,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广港隧道-香港 B 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 21949,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广港隧道-台湾 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 15757,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广新隧道-新加坡 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 19446,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广日隧道-日本 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 19700,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广港隧道-孟买 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 39963,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "广日隧道-首尔 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 40396,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽日隧道-墨西哥 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 43731,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽德隧道-法兰克福 5x",
+      "type": "vmess",
+      "server": "58.144.196.61",
+      "server_port": 32036,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽德隧道-迪拜 5x",
+      "type": "vmess",
+      "server": "58.144.196.61",
+      "server_port": 37442,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽德隧道-英国 5x",
+      "type": "vmess",
+      "server": "58.144.196.61",
+      "server_port": 10501,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽德隧道-土耳其 5x",
+      "type": "vmess",
+      "server": "58.144.196.61",
+      "server_port": 16389,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽日隧道-美国阿什本 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 15261,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽日隧道-美国芝加哥 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 37167,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "辽日隧道-美国凤凰城 5x",
+      "type": "vmess",
+      "server": "120.199.90.93",
+      "server_port": 16569,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Singapore4G/Netflix",
+      "type": "vmess",
+      "server": "138.2.106.103",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "JP500m/Netflix",
+      "type": "vmess",
+      "server": "131.186.41.136",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "JP 4G/Netflix",
+      "type": "vmess",
+      "server": "172.233.66.179",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "UK 4G/Netflix",
+      "type": "vmess",
+      "server": "144.21.55.6",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "US Phoenix 4G/Netflix",
+      "type": "vmess",
+      "server": "129.153.201.190",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "US Chicago 4G/Netflix",
+      "type": "vmess",
+      "server": "131.186.2.199",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "US Ashburn 4G/Netflix",
+      "type": "vmess",
+      "server": "150.136.43.115",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Dubai 4G/Netflix",
+      "type": "vmess",
+      "server": "193.123.74.119",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Korea 500m/Netflix",
+      "type": "vmess",
+      "server": "130.162.137.120",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Korea Chunchuan 4G/Netflix",
+      "type": "vmess",
+      "server": "144.24.68.46",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Korea Seoul  4G/Netflix",
+      "type": "vmess",
+      "server": "64.110.68.144",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Mexico 4G/Netflix",
+      "type": "vmess",
+      "server": "140.84.163.139",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "Mumbai 4G/Netflix",
+      "type": "vmess",
+      "server": "152.67.8.75",
+      "server_port": 80,
+      "uuid": "952e5be4-83e4-4c35-a663-04e8648b2513",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "tms.dingtalk.com"
+        },
+        "path": "/"
+      }
+    }
+  ]
+}
