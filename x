@@ -114,7 +114,7 @@
                 "data": {
                     "segments": [
                         {
-                            "text": "{\"title\": \"微信\",\"name\": \"com.tencent.mm\",\"url\": \"https://flowus.cn/api/docs/7e583976-ff84-45bc-8429-7a2189a00d09\",\"type\": 0,\"desc\": \"二改白嫖专用\",\"version\": \"全版本通杀\",\"build\":\"release\"}",
+                            "text": "{\"title\": \"微信\",\"name\": \"com.tencent.mm\",\"url\": \"https://flowus.cn/api/docs/7e583976-ff84-45bc-8429-7a2189a00d09\",\"type\": 0,\"desc\": \"免费模块 倒卖泛滥 停止服务\",\"version\": \"全版本通杀\",\"build\":\"release\"}",
                             "type": 0,
                             "enhancer": {
                                 "bold": false,
@@ -208,7 +208,7 @@
                 "parentId": "3912ac7a-0cd6-4ea4-874b-92711237bbc4",
                 "spaceId": "f5a61bc2-2673-4d80-97b5-c8ce495777f4",
                 "type": 1,
-                "title": "{\"title\": \"HookVip\",\"name\": \"Hook.JiuWu.Xp\",\"icon\":\"http://q.qlogo.cn/headimg_dl?dst_uin=2501253120&spec=640&img_type=jpg\",\"url\": \"https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f-6eb58adf2397\",\"type\": 1,\"desc\": \"测试弹窗\",\"version\": \"全版本通杀\"}",
+                "title": "{\"title\": \"HookVip\",\"name\": \"Hook.JiuWu.Xp\",\"icon\":\"http://q.qlogo.cn/headimg_dl?dst_uin=1933887623&spec=640&img_type=jpg\",\"url\": \"https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f-6eb58adf2397\",\"type\": 1,\"desc\": \"测试弹窗\",\"version\": \"全版本通杀\"}",
                 "backgroundColor": "",
                 "textColor": "",
                 "data": {
@@ -220,8 +220,8 @@
                             "enhancer": {}
                         },
                         {
-                            "url": "http://q.qlogo.cn/headimg_dl?dst_uin=2501253120&spec=640&img_type=jpg",
-                            "text": "http://q.qlogo.cn/headimg_dl?dst_uin=2501253120&spec=640&img_type=jpg",
+                            "url": "http://q.qlogo.cn/headimg_dl?dst_uin=1933887623&spec=640&img_type=jpg",
+                            "text": "http://q.qlogo.cn/headimg_dl?dst_uin=1933887623&spec=640&img_type=jpg",
                             "type": 3,
                             "enhancer": {},
                             "textFormat": {
@@ -235,8 +235,8 @@
                             "enhancer": {}
                         },
                         {
-                            "url": "https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f-6eb58adf2397",
-                            "text": "https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f-6eb58adf2397",
+                            "url": "https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f5524558adf2397",
+                            "text": "https://flowus.cn/api/docs/0d856b1b-d5d6-462c-883f5524558adf2397",
                             "type": 3,
                             "enhancer": {},
                             "textFormat": {
