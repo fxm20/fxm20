@@ -114,7 +114,7 @@
                 "data": {
                     "segments": [
                         {
-                            "text": "{\"title\": \"微信\",\"name\": \"com.tencent.mm\",\"url\": \"https://flowus.cn/api/docs/7e583976-ff84-45bc-8429-7a2189a00d09\",\"type\": 0,\"desc\": \"免费模块 倒卖泛滥 停止服务\",\"version\": \"全版本通杀\",\"build\":\"release\"}",
+                            "text": "{\"title\": \"微信\",\"name\": \"com.tencent.mm\",\"url\": \"https://flowus.cn/api/docs/7e583976-ff84-45bc-8429-7a2189a00d09\",\"type\": 0,\"desc\": \"二改白嫖专用\",\"version\": \"全版本通杀\",\"build\":\"release\"}",
                             "type": 0,
                             "enhancer": {
                                 "bold": false,
